@@ -30,7 +30,6 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     paddingVertical: 10,
   },
-
   title: {
     fontSize: 22,
     fontWeight: "bold",
